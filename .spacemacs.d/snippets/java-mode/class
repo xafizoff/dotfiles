@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: class
+# key: cla
+# --
+$3
+public class ${1:`(file-name-sans-extension (buffer-name))`}$2 {
+    $0
+}

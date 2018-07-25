@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: sscript
+# key: sscript
+# --
+<script src="$1"></script>$0
